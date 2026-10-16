@@ -22,7 +22,7 @@ Download the installer for your computer from the [v0.4.0 release](https://githu
 
 On macOS, open the DMG and copy the app to Applications. On Windows, run the installer. Launch Crawshrimp Harness and let its local agent runtime start. The desktop package includes DSH; a separate DSH CLI installation is unnecessary.
 
-For the browser task below, install [Google Chrome](https://www.google.com/chrome/) if it is not already installed. Crawshrimp launches a dedicated browser instance with its own profile; if Chrome is not detected, the app asks you to select the browser executable.
+For the browser task below, make sure a supported browser, such as [Google Chrome](https://www.google.com/chrome/), is installed. Crawshrimp launches a dedicated browser instance with its own profile; if no supported browser is detected, the app asks you to select the browser executable.
 
 #### 2. Configure the Official DeepSeek Provider
 

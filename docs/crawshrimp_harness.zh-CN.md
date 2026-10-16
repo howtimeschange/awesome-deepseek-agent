@@ -22,7 +22,7 @@ Crawshrimp Harness（抓虾）是基于 DeepSeek Harness（DSH）的开源、本
 
 macOS 打开 DMG 后将应用复制到“应用程序”；Windows 运行安装器。启动抓虾 Harness，等待本地智能体运行时就绪。桌面安装包已集成 DSH，无需单独安装 DSH CLI。
 
-下方的浏览器任务需要 [Google Chrome](https://www.google.com/chrome/)，尚未安装时请先安装。抓虾会启动使用独立用户目录的专用浏览器实例；如果没有检测到 Chrome，应用会提示选择浏览器可执行文件。
+下方的浏览器任务需要已安装受支持的浏览器，例如 [Google Chrome](https://www.google.com/chrome/)。抓虾会启动使用独立用户目录的专用浏览器实例；如果没有检测到受支持的浏览器，应用会提示选择浏览器可执行文件。
 
 #### 2. 配置 DeepSeek 官方 Provider
 
